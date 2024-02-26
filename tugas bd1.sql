@@ -1,0 +1,2 @@
+DROP DATABASE si02test;
+CREATE DATABASE si02test;
